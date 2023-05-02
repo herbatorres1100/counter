@@ -21,6 +21,7 @@ main{
     background-size: cover;
     border-radius: 30px;
     display: flex;
+    flex-wrap: wrap;
     margin: 0 auto;
     border-bottom: 0px solid black;
     padding: 30px;
@@ -75,6 +76,7 @@ button {
     max-width: 500px;
     padding: 30px;
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-between;
 }
 
