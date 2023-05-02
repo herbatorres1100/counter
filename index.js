@@ -23,8 +23,8 @@ function reset() {
     countB = 0
 }
 
-function newset(){
-    reset ()
+function newset() {
+    reset()
     countNum = 0
     resetEl.textContent = "Games Played: " + countNum
 }
